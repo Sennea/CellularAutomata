@@ -1,0 +1,10 @@
+C:\Users\Kasia\source\repos\automaty\automaty\bin\Debug\automaty.exe.config
+C:\Users\Kasia\source\repos\automaty\automaty\bin\Debug\automaty.exe
+C:\Users\Kasia\source\repos\automaty\automaty\bin\Debug\automaty.pdb
+C:\Users\Kasia\source\repos\automaty\automaty\obj\Debug\automaty.csprojAssemblyReference.cache
+C:\Users\Kasia\source\repos\automaty\automaty\obj\Debug\automaty.Form1.resources
+C:\Users\Kasia\source\repos\automaty\automaty\obj\Debug\automaty.Properties.Resources.resources
+C:\Users\Kasia\source\repos\automaty\automaty\obj\Debug\automaty.csproj.GenerateResource.cache
+C:\Users\Kasia\source\repos\automaty\automaty\obj\Debug\automaty.csproj.CoreCompileInputs.cache
+C:\Users\Kasia\source\repos\automaty\automaty\obj\Debug\automaty.exe
+C:\Users\Kasia\source\repos\automaty\automaty\obj\Debug\automaty.pdb
